@@ -1,0 +1,1782 @@
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 3, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=0-before-1/feas_res.pkl'>
+runtime: 0.018527984619140625 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 4, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=0-before-1/feas_res.pkl'>
+runtime: 0.0183868408203125 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 5, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=0-before-1/feas_res.pkl'>
+runtime: 0.018538951873779297 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 6, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=0-before-1/feas_res.pkl'>
+runtime: 0.01878666877746582 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 7, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=0-before-1/feas_res.pkl'>
+runtime: 0.01860666275024414 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 8, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=0-before-1/feas_res.pkl'>
+runtime: 0.01934337615966797 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 9, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=0-before-1/feas_res.pkl'>
+runtime: 0.01883697509765625 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 10, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=0-before-1/feas_res.pkl'>
+runtime: 0.018487930297851562 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 11, 12])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=0-before-1/feas_res.pkl'>
+runtime: 0.018490314483642578 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 3, 3])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=0-before-2/feas_res.pkl'>
+runtime: 0.018393754959106445 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 4, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=0-before-2/feas_res.pkl'>
+runtime: 0.018557310104370117 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 5, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=0-before-2/feas_res.pkl'>
+runtime: 0.018546581268310547 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 6, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=0-before-2/feas_res.pkl'>
+runtime: 0.018428564071655273 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 7, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=0-before-2/feas_res.pkl'>
+runtime: 0.0186464786529541 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 8, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=0-before-2/feas_res.pkl'>
+runtime: 0.01877737045288086 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 9, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=0-before-2/feas_res.pkl'>
+runtime: 0.018709659576416016 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 10, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=0-before-2/feas_res.pkl'>
+runtime: 0.018451213836669922 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 11, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=0-before-2/feas_res.pkl'>
+runtime: 0.018626928329467773 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=1-before-0/feas.smt
+24
+sat
+([20, 5, 11], [1, 3, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=1-before-0/feas_res.pkl'>
+runtime: 0.018482446670532227 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=1-before-0/feas.smt
+24
+sat
+([20, 5, 11], [1, 4, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=1-before-0/feas_res.pkl'>
+runtime: 0.018515586853027344 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=1-before-0/feas.smt
+24
+sat
+([20, 5, 11], [1, 5, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=1-before-0/feas_res.pkl'>
+runtime: 0.01853489875793457 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=1-before-0/feas.smt
+24
+sat
+([20, 5, 11], [1, 6, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=1-before-0/feas_res.pkl'>
+runtime: 0.01880645751953125 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=1-before-0/feas.smt
+24
+sat
+([20, 5, 11], [1, 7, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=1-before-0/feas_res.pkl'>
+runtime: 0.018932819366455078 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=1-before-0/feas.smt
+24
+sat
+([20, 5, 11], [1, 8, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=1-before-0/feas_res.pkl'>
+runtime: 0.01851201057434082 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=1-before-0/feas.smt
+24
+sat
+([20, 5, 11], [1, 9, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=1-before-0/feas_res.pkl'>
+runtime: 0.01839447021484375 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=1-before-0/feas.smt
+24
+sat
+([20, 5, 11], [1, 10, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=1-before-0/feas_res.pkl'>
+runtime: 0.018830537796020508 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=1-before-0/feas.smt
+24
+sat
+([20, 5, 11], [1, 11, 12])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=1-before-0/feas_res.pkl'>
+runtime: 0.018769264221191406 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 3, 3])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=1-before-2/feas_res.pkl'>
+runtime: 0.018561124801635742 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 4, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=1-before-2/feas_res.pkl'>
+runtime: 0.01860666275024414 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 5, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=1-before-2/feas_res.pkl'>
+runtime: 0.018631696701049805 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 6, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=1-before-2/feas_res.pkl'>
+runtime: 0.01874518394470215 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 7, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=1-before-2/feas_res.pkl'>
+runtime: 0.01889944076538086 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 8, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=1-before-2/feas_res.pkl'>
+runtime: 0.018379926681518555 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 9, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=1-before-2/feas_res.pkl'>
+runtime: 0.018561124801635742 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 10, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=1-before-2/feas_res.pkl'>
+runtime: 0.01865363121032715 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [1, 11, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=1-before-2/feas_res.pkl'>
+runtime: 0.01847362518310547 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=2-before-0/feas.smt
+24
+sat
+([20, 14, 2], [1, 3, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=2-before-0/feas_res.pkl'>
+runtime: 0.01873469352722168 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=2-before-0/feas.smt
+24
+sat
+([20, 14, 2], [1, 4, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=2-before-0/feas_res.pkl'>
+runtime: 0.018845081329345703 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=2-before-0/feas.smt
+24
+sat
+([20, 14, 2], [1, 5, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=2-before-0/feas_res.pkl'>
+runtime: 0.018995046615600586 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=2-before-0/feas.smt
+24
+sat
+([20, 14, 2], [1, 6, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=2-before-0/feas_res.pkl'>
+runtime: 0.018540620803833008 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=2-before-0/feas.smt
+24
+sat
+([20, 14, 2], [1, 7, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=2-before-0/feas_res.pkl'>
+runtime: 0.018644332885742188 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=2-before-0/feas.smt
+24
+sat
+([20, 14, 2], [1, 8, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=2-before-0/feas_res.pkl'>
+runtime: 0.018443584442138672 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=2-before-0/feas.smt
+24
+sat
+([20, 14, 2], [1, 9, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=2-before-0/feas_res.pkl'>
+runtime: 0.01846790313720703 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=2-before-0/feas.smt
+24
+sat
+([20, 14, 2], [1, 10, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=2-before-0/feas_res.pkl'>
+runtime: 0.01853489875793457 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=2-before-0/feas.smt
+24
+sat
+([20, 14, 2], [1, 11, 12])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=2-before-0/feas_res.pkl'>
+runtime: 0.018898963928222656 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 3, 3])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=0dep=2-before-1/feas_res.pkl'>
+runtime: 0.018556833267211914 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 4, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=0dep=2-before-1/feas_res.pkl'>
+runtime: 0.018610239028930664 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 5, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=0dep=2-before-1/feas_res.pkl'>
+runtime: 0.01850581169128418 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 6, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=0dep=2-before-1/feas_res.pkl'>
+runtime: 0.01861739158630371 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 7, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=0dep=2-before-1/feas_res.pkl'>
+runtime: 0.018459081649780273 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 8, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=0dep=2-before-1/feas_res.pkl'>
+runtime: 0.018646240234375 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 9, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=0dep=2-before-1/feas_res.pkl'>
+runtime: 0.0184476375579834 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 10, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=0dep=2-before-1/feas_res.pkl'>
+runtime: 0.018389463424682617 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [1, 11, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=0dep=2-before-1/feas_res.pkl'>
+runtime: 0.018459558486938477 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=0-before-1/feas.smt
+24
+sat
+([5, 20, 11], [3, 1, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=0-before-1/feas_res.pkl'>
+runtime: 0.018537521362304688 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=0-before-1/feas.smt
+24
+sat
+([5, 20, 11], [4, 1, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=0-before-1/feas_res.pkl'>
+runtime: 0.01929640769958496 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=0-before-1/feas.smt
+24
+sat
+([5, 20, 11], [5, 1, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=0-before-1/feas_res.pkl'>
+runtime: 0.018523454666137695 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=0-before-1/feas.smt
+24
+sat
+([5, 20, 11], [6, 1, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=0-before-1/feas_res.pkl'>
+runtime: 0.018515586853027344 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=0-before-1/feas.smt
+24
+sat
+([5, 20, 11], [7, 1, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=0-before-1/feas_res.pkl'>
+runtime: 0.018624544143676758 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=0-before-1/feas.smt
+24
+sat
+([5, 20, 11], [8, 1, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=0-before-1/feas_res.pkl'>
+runtime: 0.018734216690063477 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=0-before-1/feas.smt
+24
+sat
+([5, 20, 11], [9, 1, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=0-before-1/feas_res.pkl'>
+runtime: 0.01937270164489746 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=0-before-1/feas.smt
+24
+sat
+([5, 20, 11], [10, 1, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=0-before-1/feas_res.pkl'>
+runtime: 0.018643856048583984 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=0-before-1/feas.smt
+24
+sat
+([5, 20, 11], [11, 1, 12])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=0-before-1/feas_res.pkl'>
+runtime: 0.01866292953491211 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [3, 1, 3])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=0-before-2/feas_res.pkl'>
+runtime: 0.018744230270385742 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [4, 1, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=0-before-2/feas_res.pkl'>
+runtime: 0.01873493194580078 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [5, 1, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=0-before-2/feas_res.pkl'>
+runtime: 0.018468856811523438 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [6, 1, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=0-before-2/feas_res.pkl'>
+runtime: 0.018635034561157227 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [7, 1, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=0-before-2/feas_res.pkl'>
+runtime: 0.018473386764526367 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [8, 1, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=0-before-2/feas_res.pkl'>
+runtime: 0.018685102462768555 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [9, 1, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=0-before-2/feas_res.pkl'>
+runtime: 0.026904821395874023 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [10, 1, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=0-before-2/feas_res.pkl'>
+runtime: 0.018733501434326172 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=0-before-2/feas.smt
+39
+sat
+([2, 2, 17], [11, 1, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=0-before-2/feas_res.pkl'>
+runtime: 0.018833398818969727 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [3, 1, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=1-before-0/feas_res.pkl'>
+runtime: 0.01894855499267578 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [4, 1, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=1-before-0/feas_res.pkl'>
+runtime: 0.01857590675354004 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [5, 1, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=1-before-0/feas_res.pkl'>
+runtime: 0.018601179122924805 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [6, 1, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=1-before-0/feas_res.pkl'>
+runtime: 0.018945693969726562 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [7, 1, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=1-before-0/feas_res.pkl'>
+runtime: 0.018828153610229492 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [8, 1, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=1-before-0/feas_res.pkl'>
+runtime: 0.0190737247467041 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [9, 1, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=1-before-0/feas_res.pkl'>
+runtime: 0.019130945205688477 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [10, 1, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=1-before-0/feas_res.pkl'>
+runtime: 0.018952608108520508 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [11, 1, 12])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=1-before-0/feas_res.pkl'>
+runtime: 0.0189971923828125 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [3, 1, 3])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=1-before-2/feas_res.pkl'>
+runtime: 0.018830299377441406 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [4, 1, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=1-before-2/feas_res.pkl'>
+runtime: 0.01895451545715332 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [5, 1, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=1-before-2/feas_res.pkl'>
+runtime: 0.018810033798217773 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [6, 1, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=1-before-2/feas_res.pkl'>
+runtime: 0.01900768280029297 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [7, 1, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=1-before-2/feas_res.pkl'>
+runtime: 0.018514394760131836 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [8, 1, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=1-before-2/feas_res.pkl'>
+runtime: 0.018958330154418945 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [9, 1, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=1-before-2/feas_res.pkl'>
+runtime: 0.01857900619506836 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [10, 1, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=1-before-2/feas_res.pkl'>
+runtime: 0.018589019775390625 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=1-before-2/feas.smt
+39
+sat
+([2, 2, 17], [11, 1, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=1-before-2/feas_res.pkl'>
+runtime: 0.018744468688964844 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [3, 1, 3])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=2-before-0/feas_res.pkl'>
+runtime: 0.018963098526000977 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [4, 1, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=2-before-0/feas_res.pkl'>
+runtime: 0.018786191940307617 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [5, 1, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=2-before-0/feas_res.pkl'>
+runtime: 0.018710851669311523 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [6, 1, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=2-before-0/feas_res.pkl'>
+runtime: 0.018620014190673828 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [7, 1, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=2-before-0/feas_res.pkl'>
+runtime: 0.018818140029907227 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [8, 1, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=2-before-0/feas_res.pkl'>
+runtime: 0.018744468688964844 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [9, 1, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=2-before-0/feas_res.pkl'>
+runtime: 0.01874089241027832 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [10, 1, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=2-before-0/feas_res.pkl'>
+runtime: 0.01855945587158203 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [11, 1, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=2-before-0/feas_res.pkl'>
+runtime: 0.018500566482543945 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=2-before-1/feas.smt
+24
+sat
+([17, 17, 2], [3, 1, 4])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=1dep=2-before-1/feas_res.pkl'>
+runtime: 0.0186007022857666 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=2-before-1/feas.smt
+24
+sat
+([17, 17, 2], [4, 1, 5])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=1dep=2-before-1/feas_res.pkl'>
+runtime: 0.019139766693115234 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=2-before-1/feas.smt
+24
+sat
+([17, 17, 2], [5, 1, 6])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=1dep=2-before-1/feas_res.pkl'>
+runtime: 0.018614768981933594 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=2-before-1/feas.smt
+24
+sat
+([17, 17, 2], [6, 1, 7])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=1dep=2-before-1/feas_res.pkl'>
+runtime: 0.018830537796020508 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=2-before-1/feas.smt
+24
+sat
+([17, 17, 2], [7, 1, 8])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=1dep=2-before-1/feas_res.pkl'>
+runtime: 0.018894433975219727 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=2-before-1/feas.smt
+24
+sat
+([17, 17, 2], [8, 1, 9])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=1dep=2-before-1/feas_res.pkl'>
+runtime: 0.018516063690185547 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=2-before-1/feas.smt
+24
+sat
+([17, 17, 2], [9, 1, 10])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=1dep=2-before-1/feas_res.pkl'>
+runtime: 0.019060134887695312 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=2-before-1/feas.smt
+24
+sat
+([17, 17, 2], [10, 1, 11])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=1dep=2-before-1/feas_res.pkl'>
+runtime: 0.019221067428588867 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=2-before-1/feas.smt
+24
+sat
+([17, 17, 2], [11, 1, 12])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=1dep=2-before-1/feas_res.pkl'>
+runtime: 0.01871633529663086 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [3, 3, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=0-before-1/feas_res.pkl'>
+runtime: 0.018454790115356445 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [4, 4, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=0-before-1/feas_res.pkl'>
+runtime: 0.0188138484954834 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [5, 5, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=0-before-1/feas_res.pkl'>
+runtime: 0.018764019012451172 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [6, 6, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=0-before-1/feas_res.pkl'>
+runtime: 0.018466472625732422 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [7, 7, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=0-before-1/feas_res.pkl'>
+runtime: 0.018726587295532227 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [8, 8, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=0-before-1/feas_res.pkl'>
+runtime: 0.01855325698852539 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [9, 9, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=0-before-1/feas_res.pkl'>
+runtime: 0.0184934139251709 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [10, 10, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=0-before-1/feas_res.pkl'>
+runtime: 0.01884746551513672 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=0-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=0-before-1/feas.smt
+39
+sat
+([2, 17, 2], [11, 11, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=0-before-1/feas_res.pkl'>
+runtime: 0.018779754638671875 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=0-before-2/feas.smt
+24
+sat
+([5, 11, 20], [3, 4, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=0-before-2/feas_res.pkl'>
+runtime: 0.018937349319458008 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=0-before-2/feas.smt
+24
+sat
+([5, 11, 20], [4, 5, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=0-before-2/feas_res.pkl'>
+runtime: 0.018535614013671875 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=0-before-2/feas.smt
+24
+sat
+([5, 11, 20], [5, 6, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=0-before-2/feas_res.pkl'>
+runtime: 0.01856708526611328 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=0-before-2/feas.smt
+24
+sat
+([5, 11, 20], [6, 7, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=0-before-2/feas_res.pkl'>
+runtime: 0.018465518951416016 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=0-before-2/feas.smt
+24
+sat
+([5, 11, 20], [7, 8, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=0-before-2/feas_res.pkl'>
+runtime: 0.01867079734802246 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=0-before-2/feas.smt
+24
+sat
+([5, 11, 20], [8, 9, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=0-before-2/feas_res.pkl'>
+runtime: 0.018903493881225586 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=0-before-2/feas.smt
+24
+sat
+([5, 11, 20], [9, 10, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=0-before-2/feas_res.pkl'>
+runtime: 0.018555402755737305 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=0-before-2/feas.smt
+24
+sat
+([5, 11, 20], [10, 11, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=0-before-2/feas_res.pkl'>
+runtime: 0.01841139793395996 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=0-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=0-before-2/feas.smt
+24
+sat
+([5, 11, 20], [11, 12, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=0-before-2/feas_res.pkl'>
+runtime: 0.018274545669555664 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [3, 3, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=1-before-0/feas_res.pkl'>
+runtime: 0.018652677536010742 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [4, 4, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=1-before-0/feas_res.pkl'>
+runtime: 0.018593788146972656 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [5, 5, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=1-before-0/feas_res.pkl'>
+runtime: 0.018757343292236328 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [6, 6, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=1-before-0/feas_res.pkl'>
+runtime: 0.018964290618896484 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [7, 7, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=1-before-0/feas_res.pkl'>
+runtime: 0.019067049026489258 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [8, 8, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=1-before-0/feas_res.pkl'>
+runtime: 0.018703937530517578 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [9, 9, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=1-before-0/feas_res.pkl'>
+runtime: 0.018605709075927734 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [10, 10, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=1-before-0/feas_res.pkl'>
+runtime: 0.018802404403686523 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=1-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=1-before-0/feas.smt
+39
+sat
+([17, 2, 2], [11, 11, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=1-before-0/feas_res.pkl'>
+runtime: 0.01876664161682129 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=1-before-2/feas.smt
+24
+sat
+([17, 2, 17], [3, 4, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=1-before-2/feas_res.pkl'>
+runtime: 0.018842220306396484 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=1-before-2/feas.smt
+24
+sat
+([17, 2, 17], [4, 5, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=1-before-2/feas_res.pkl'>
+runtime: 0.01844644546508789 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=1-before-2/feas.smt
+24
+sat
+([17, 2, 17], [5, 6, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=1-before-2/feas_res.pkl'>
+runtime: 0.01891779899597168 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=1-before-2/feas.smt
+24
+sat
+([17, 2, 17], [6, 7, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=1-before-2/feas_res.pkl'>
+runtime: 0.01884746551513672 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=1-before-2/feas.smt
+24
+sat
+([17, 2, 17], [7, 8, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=1-before-2/feas_res.pkl'>
+runtime: 0.019067049026489258 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=1-before-2/feas.smt
+24
+sat
+([17, 2, 17], [8, 9, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=1-before-2/feas_res.pkl'>
+runtime: 0.018951892852783203 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=1-before-2/feas.smt
+24
+sat
+([17, 2, 17], [9, 10, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=1-before-2/feas_res.pkl'>
+runtime: 0.018790245056152344 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=1-before-2/feas.smt
+24
+sat
+([17, 2, 17], [10, 11, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=1-before-2/feas_res.pkl'>
+runtime: 0.018823862075805664 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=1-before-2/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=1-before-2/feas.smt
+24
+sat
+([17, 2, 17], [11, 12, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=1-before-2/feas_res.pkl'>
+runtime: 0.018387556076049805 ----- output_cost: 24
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [3, 4, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=2-before-0/feas_res.pkl'>
+runtime: 0.018771886825561523 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [4, 5, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=2-before-0/feas_res.pkl'>
+runtime: 0.018427371978759766 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [5, 6, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=2-before-0/feas_res.pkl'>
+runtime: 0.018504619598388672 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [6, 7, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=2-before-0/feas_res.pkl'>
+runtime: 0.018672943115234375 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [7, 8, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=2-before-0/feas_res.pkl'>
+runtime: 0.01888418197631836 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [8, 9, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=2-before-0/feas_res.pkl'>
+runtime: 0.018519878387451172 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [9, 10, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=2-before-0/feas_res.pkl'>
+runtime: 0.01851201057434082 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [10, 11, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=2-before-0/feas_res.pkl'>
+runtime: 0.0184781551361084 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=2-before-0/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=2-before-0/feas.smt
+39
+sat
+([17, 2, 2], [11, 12, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=2-before-0/feas_res.pkl'>
+runtime: 0.019345998764038086 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [3, 3, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=2_cpu-proc=2dep=2-before-1/feas_res.pkl'>
+runtime: 0.018677711486816406 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [4, 4, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=3_cpu-proc=2dep=2-before-1/feas_res.pkl'>
+runtime: 0.01849365234375 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [5, 5, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=4_cpu-proc=2dep=2-before-1/feas_res.pkl'>
+runtime: 0.018403291702270508 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [6, 6, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=5_cpu-proc=2dep=2-before-1/feas_res.pkl'>
+runtime: 0.018447399139404297 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [7, 7, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=6_cpu-proc=2dep=2-before-1/feas_res.pkl'>
+runtime: 0.018697023391723633 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [8, 8, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=7_cpu-proc=2dep=2-before-1/feas_res.pkl'>
+runtime: 0.018770217895507812 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [9, 9, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=8_cpu-proc=2dep=2-before-1/feas_res.pkl'>
+runtime: 0.01851820945739746 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [10, 10, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=9_cpu-proc=2dep=2-before-1/feas_res.pkl'>
+runtime: 0.018445491790771484 ----- output_cost: 39
+outpath flag: ../data_curriculum_3
+dump flag: True
+outpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=2-before-1/
+Running for 3 task over horizon of 35
+smtpath: ../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=2-before-1/feas.smt
+39
+sat
+([2, 17, 2], [11, 11, 1])
+schedule verified
+filepath = <_io.BufferedWriter name='../data_curriculum_3/tasks=3_horizon=35_ngpu=2_ncpu=10_cpu-proc=2dep=2-before-1/feas_res.pkl'>
+runtime: 0.01882791519165039 ----- output_cost: 39
